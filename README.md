@@ -11,7 +11,7 @@ This project analyzes online electronic retail shop dataset by grouping customer
 * **Metric Calculation-** Utilized **Chaining CTEs, JOINS** and **Aggregations** to calculate **AOV, Total Segment Revenue, Customer Count** and **Contribution Percentage**.
 * **Generational Analysis-** Incorporate **CASE Statements** to investigate the relationship between Sales Performance and Age Demographics.
 
-## 2. Business Questions
+## 2. Business Questions (SQL)
 * **Age Based Segmentation:** Does Age significantly affect sales performance?
 * **Regional Trends:** Which continents are most concentrated in specific segments?
 * **Category Analysis:** Which product categories are ordered most frequently within each segment? 
