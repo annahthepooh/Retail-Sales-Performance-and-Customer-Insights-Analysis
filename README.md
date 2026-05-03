@@ -8,7 +8,7 @@ This project analyzes online electronic retail shop dataset by grouping customer
 ### Data Cleaning & Preparation (SQL)
 * **Data Quality-** Standardized columns for binary analysis using `UPDATE` and handled missing values using `ALTER`.
 * **RFM Modelling-** Built a segmentation Model to group the customers into **Champions, Loyalist, At Risk** and **Hibernating/Lost**.
-* **Metric Calculation-** Utilized **Chaining CTEs, JOINS** and **Aggregations** to calculate **AOV, Total Segment Revenue, Customer Count** and **Contribution Percentage**.
+* **Metric Calculation-** Utilized **Chaining CTEs, JOINS** and **Aggregations** to calculate **Average Order Value, Total Segment Revenue, Customer Count** and **Contribution Percentage**.
 * **Generational Analysis-** Incorporate **CASE Statements** to investigate the relationship between Sales Performance and Age Demographics.
 
 ## 2. Business Questions (SQL)
