@@ -1,7 +1,10 @@
-# Global_Electronic_retailer_analysis
+# Retail Sales Performance and Customer Insights Analysis
+
+## Problem Statement
+An online retail store is seeking to better understand it's sales performance, customer behavior and product profitability in order to optimize revenue and improve decision making. This project analyzes transactional data to identify key revenue drivers and customer segments.
 
 ## Executive Summary
-This project analyzes online electronic retail shop dataset by grouping customers into 4 segments using **Recency, Frequency & Monetary Analysis**. By investigating how **age, location and product categories** influence performance, I identified specific insights and provided actionable recommendations aimed at increasing sales and order volume by **20%**.
+This project analyzes online electronic retail shop sales data to evaluate overal business performance, product trends and customer behavior. The analysis focuses on customer segmentation patterns, revenue distribution and product category performaance. The findings reveal certain regions and customer groups contribute more to total sales while others show lower engagement and profitability. This aims to  provide specific insights and provide actionable recommendations aimed at increasing sales and order volume by **20%**.
 
 
 ## The Workflow 
@@ -11,11 +14,6 @@ This project analyzes online electronic retail shop dataset by grouping customer
 * **Metric Calculation-** Utilized **Chaining CTEs, JOINS** and **Aggregations** to calculate **Average Order Value, Total Segment Revenue, Customer Count** and **Contribution Percentage**.
 * **Generational Analysis-** Incorporate **CASE Statements** to investigate the relationship between Sales Performance and Age Demographics.
 
-## 2. Business Questions (SQL)
-* **Age Based Segmentation:** Does Age significantly affect sales performance?
-* **Regional Trends:** Which continents are most concentrated in specific segments?
-* **Category Analysis:** Which product categories are ordered most frequently within each segment? 
-
 
 ## Key Insights 
 * **The Age Influence:** Older generations are more likely to order than younger ones. **Baby Boomers** represent the largest customer base (**28.65%**) while **Generation Z** is the smallest (**7.55%**) 
@@ -24,10 +22,9 @@ This project analyzes online electronic retail shop dataset by grouping customer
 
 
 ## Final Recommendations
- 1.	**Generational marketing:** Tailor messaging and marketing channels to resonate with specific values and behaviors of Generation Z and Generation X to raise order count hence increase sales performance 
-* 2. **Inventory Optimization:** 
-* Increase restock by 50% for high demand categories:**Computers,Cell Phones** and **Music, Movies and Audio Books**
-* Reduce and restock by 50% for bottom 5 least ordered categories to free up capital
-* 3. **Market Research:** Deploy targeted Surveys in **Australia and Europe** to identify local loopholes and gain insights into boosting sales performance in those regions.
+ 1.	Implement **Generational Marketing Strategy** by tailoring messaging, content and marketing channels to the preference of **Generation Z** and **Generation X** in order to improve customer engagememnt and increase order frequency
+* 2. Optimize inventory allocation by **increasing stock levels by 50% for high demand categories** such as **Computers**,**Cell Phones** and **Music, Movies and Audio Books** to prevent stockouts and maximize sales opportunities
+* 3. **Reduce inventory allocation by 50% for bottom 5 least ordered categories** to minimize holding costs and improve capital efficiency
+* 4. **Conduct Targeted Market Research** in **Australia** and **Europe** to identify regional customer preference, demand gaps and barriers to purchase to inform localized marketing and sales strategies.
 
 
