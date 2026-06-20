@@ -6,9 +6,10 @@ An online retail store is seeking to better understand it's sales performance, c
 ## Executive Summary
 This project analyzes online electronic retail shop sales data to evaluate overal business performance, product trends and customer behavior. The analysis focuses on customer segmentation patterns, revenue distribution and product category performaance. The findings reveal certain regions and customer groups contribute more to total sales while others show lower engagement and profitability. This aims to  provide specific insights and provide actionable recommendations aimed at increasing sales and order volume by **20%**.
 
-## markdown 
+ ## Tools & Skills Demonstrated
+
 <details>
- ## *Tools & Skills Demonstrated
+<summary><b>Click here to expand the section</b></summary>
 
 ### SQL
 - Data Cleaning
@@ -18,8 +19,6 @@ This project analyzes online electronic retail shop sales data to evaluate overa
 - CASE Statements
 - Chaining CTEs
   
-<summary><b>Click here to expand the section</b></summary>
-
 ### Retail Analytics
 - Sales Performance Analysis
 - Product Performance Evaluation
