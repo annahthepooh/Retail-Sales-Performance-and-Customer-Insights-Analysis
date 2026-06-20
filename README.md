@@ -13,6 +13,7 @@ This project analyzes online electronic retail shop sales data to evaluate overa
 * **RFM Modelling-** Built a segmentation Model to group the customers into **Champions, Loyalist, At Risk** and **Hibernating/Lost**.
 * **Metric Calculation-** Utilized **Chaining CTEs, JOINS** and **Aggregations** to calculate **Average Order Value, Total Segment Revenue, Customer Count** and **Contribution Percentage**.
 * **Generational Analysis-** Incorporate **CASE Statements** to investigate the relationship between Sales Performance and Age Demographics.
+* **SQL scripts used for data cleaning and preparation are available in the *data cleaning* folder**
 
 
 ## Key Insights 
